@@ -2,7 +2,7 @@
 SQLyog Ultimate v8.82 
 MySQL - 5.1.45-community : Database - practice
 *********************************************************************
-*/
+*/
 
 /*!40101 SET NAMES utf8 */;
 

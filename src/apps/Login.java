@@ -109,7 +109,7 @@ public class Login extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // code for Sumbit Login window 
-        try
+        try 
         { 
          String user =jTextField1.getText();
          String pswd=jPasswordField1.getText();
